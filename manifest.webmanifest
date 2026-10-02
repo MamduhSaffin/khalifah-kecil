@@ -1,1 +1,11 @@
-{"name":"Khalifah Kecil","short_name":"Khalifah","start_url":"./","display":"standalone","background_color":"#f5f1e8","theme_color":"#123d35","description":"Real-world curiosity, invention and life-learning adventures for children."}
+{
+  "name": "Khalifah Kecil",
+  "short_name": "Khalifah",
+  "lang": "ms",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#123d35",
+  "description": "Pengembaraan rasa ingin tahu, ciptaan dan pembelajaran dunia sebenar untuk kanak-kanak."
+}
